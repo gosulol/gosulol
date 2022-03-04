@@ -5,8 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+
+- 🔭 I’m currently working on Azure Projects
+- 🌱 I’m currently learning Networking (CCNA), Cloud - Azure/AWS. 
+- 📫 How to reach me: 
+- jordanricketts10@gmail.com
+- www.linkedin.com/in/jordan-ricketts10
+
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

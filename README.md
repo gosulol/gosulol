@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Azure Projects
-- 🌱 I’m currently learning Networking (CCNA), Cloud - Azure/AWS. 
+- 🔭 I’m currently working on Intune IaaC Projects
 - 📫 How to reach me: 
 - jordanricketts10@gmail.com
 - www.linkedin.com/in/jordan-ricketts10
